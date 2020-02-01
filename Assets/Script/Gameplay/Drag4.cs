@@ -7,6 +7,7 @@ public class Drag4 : MonoBehaviour
     private float StartPorX;
     private float StartPorY;
     private bool isBeingHeld = false;
+    public bool Check4 = false;
 
     private AudioSource bruh;
     // Update is called once per frame
@@ -56,6 +57,7 @@ public class Drag4 : MonoBehaviour
             bruh.Play();
             transform.SetParent(collision.collider.transform);
             isBeingHeld = false;
+            Check4 = true;
         }
 
     }

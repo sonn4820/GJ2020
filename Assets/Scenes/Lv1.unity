@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 62203329}
   - component: {fileID: 62203328}
   - component: {fileID: 62203330}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -241,6 +241,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d41252a141ad873428b60bc55741cf91, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Check2: 0
 --- !u!82 &62203330
 AudioSource:
   m_ObjectHideFlags: 0
@@ -350,7 +351,7 @@ GameObject:
   - component: {fileID: 283080340}
   - component: {fileID: 283080339}
   - component: {fileID: 283080341}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -458,6 +459,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58a88811cbe317548a8a6df5696d84b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Check4: 0
 --- !u!82 &283080341
 AudioSource:
   m_ObjectHideFlags: 0
@@ -567,7 +569,7 @@ GameObject:
   - component: {fileID: 382312313}
   - component: {fileID: 382312312}
   - component: {fileID: 382312314}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -675,6 +677,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f9264b8ed4889de4da6c3a825fe3e190, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Check5: 0
 --- !u!82 &382312314
 AudioSource:
   m_ObjectHideFlags: 0
@@ -784,7 +787,7 @@ GameObject:
   - component: {fileID: 778449991}
   - component: {fileID: 778449994}
   - component: {fileID: 778449995}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -803,6 +806,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a63ec6ee99f2a7488fd235cd1cc2fc4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Check1: 0
 --- !u!212 &778449992
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1001,7 +1005,7 @@ GameObject:
   - component: {fileID: 786752078}
   - component: {fileID: 786752077}
   - component: {fileID: 786752079}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1109,6 +1113,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13da9d0e147b16e438a395afab1822e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Check3: 0
 --- !u!82 &786752079
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1217,7 +1222,7 @@ GameObject:
   - component: {fileID: 854042579}
   - component: {fileID: 854042578}
   - component: {fileID: 854042581}
-  m_Layer: 11
+  m_Layer: 16
   m_Name: S4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1346,7 +1351,7 @@ GameObject:
   - component: {fileID: 949729681}
   - component: {fileID: 949729680}
   - component: {fileID: 949729683}
-  m_Layer: 9
+  m_Layer: 14
   m_Name: S2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1475,7 +1480,7 @@ GameObject:
   - component: {fileID: 1148176535}
   - component: {fileID: 1148176534}
   - component: {fileID: 1148176537}
-  m_Layer: 10
+  m_Layer: 15
   m_Name: S3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1604,7 +1609,7 @@ GameObject:
   - component: {fileID: 1548104983}
   - component: {fileID: 1548104982}
   - component: {fileID: 1548104985}
-  m_Layer: 12
+  m_Layer: 17
   m_Name: S5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1816,7 +1821,7 @@ GameObject:
   - component: {fileID: 1820329759}
   - component: {fileID: 1820329761}
   - component: {fileID: 1820329758}
-  m_Layer: 8
+  m_Layer: 13
   m_Name: S1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
