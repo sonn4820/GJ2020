@@ -8,4 +8,31 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Intro.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Coming.unity
+    guid: 5dafbec8ee76e884e88b71dad8d45872
+  - enabled: 1
+    path: Assets/Scenes/Lv1.unity
+    guid: 5d874a71be3fdae4b9850a28df1f2904
+  - enabled: 1
+    path: Assets/Scenes/Lv2.unity
+    guid: 4e8bd261314488d4695a2838f2280d22
+  - enabled: 1
+    path: Assets/Scenes/Lv3.unity
+    guid: 7fe39b124f73f6c449395dc1885960d9
+  - enabled: 1
+    path: Assets/Scenes/Lv4.unity
+    guid: e0c0d9838bbc5d1469b46a13cb45dde9
+  - enabled: 1
+    path: Assets/Scenes/Lv5.unity
+    guid: 09e9ae5f23ff052448872731ceccb756
+  - enabled: 1
+    path: Assets/Scenes/GoodEnd.unity
+    guid: 2840170fa25de9c4db3ac7a01e649dc0
+  - enabled: 1
+    path: Assets/Scenes/BadEnd.unity
+    guid: 38ba47c36e1dc364ea79d884cfe25afd
+  - enabled: 1
+    path: Assets/Scenes/ScoreAndCredit.unity
+    guid: f1808d374f0d43f4b98df86acb913b4f
   m_configObjects: {}

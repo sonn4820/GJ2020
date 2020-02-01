@@ -62,7 +62,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Script\Gameplay\Dragging.cs" />
+    <Compile Include="Assets\Script\Gameplay\Drag1.cs" />
+    <Compile Include="Assets\Script\Gameplay\Drag2.cs" />
+    <Compile Include="Assets\Script\Gameplay\Drag3.cs" />
+    <Compile Include="Assets\Script\Gameplay\Drag4.cs" />
+    <Compile Include="Assets\Script\Gameplay\Drag5.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Unity/Game Jam 2020/GJ2020/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
